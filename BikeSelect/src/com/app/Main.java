@@ -6,6 +6,7 @@ public class Main {
 		new MotorVehicle().checkOnPrice(80000);
 		System.out.println("====================================");
 		new MotorVehicle().checkOnManufacturer("Bajaj");
+		System.out.println("====================================");
 	}
 
 }
