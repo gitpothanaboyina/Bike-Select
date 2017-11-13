@@ -9,4 +9,7 @@ public class Main {
 		System.out.println("====================================");
 	}
 
+	public void decorate(){
+		System.out.println("****++++====%%%%----@@@@^^^^$$$$!!!!####");
+	}
 }
